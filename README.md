@@ -1,4 +1,4 @@
-Here's the enhanced Markdown documentation for your **MERN Chatbot SaaS** project, formatted for easy copy and paste:
+
 
 ```markdown
 # MERN Chatbot SaaS
