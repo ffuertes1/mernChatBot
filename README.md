@@ -1,7 +1,7 @@
 
 
-```markdown
-# MERN Chatbot SaaS
+
+## MERN Chatbot SaaS
 
 This is a simple chatbot developed with the **MERN** stack (MongoDB, Express, React, Node.js). It allows users to interact with a basic bot that answers simple questions like "hello" and "goodbye".
 
@@ -108,5 +108,5 @@ When a user interacts with the application:
 4. When the user sends a message to the chatbot, the frontend sends it to the backend, which responds and saves the conversation in the database.
 
 This flow is the foundation on which you can expand the project to create a more advanced and feature-rich chatbot.
-```
+
 
